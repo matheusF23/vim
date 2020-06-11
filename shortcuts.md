@@ -9,7 +9,7 @@
 
 * Modos:
 
-O VIM alguns modos:
+O VIM tem alguns modos:
 
 	- modo normal. Já abre nesse modo, ou se estiver em outro modo é só usar o ESC.
 	- modo de inserção (i).
