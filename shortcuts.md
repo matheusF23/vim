@@ -77,3 +77,8 @@ O VIM alguns modos:
 	- salvar arquivo com outro nome: **:w novo_nome**
 	- no modo normal, pode-se usar **ZZ** para salvar e sair.
 
+* Outros comandos
+	- **:Vex** -> splitar a tela mostrando o diretório atual 
+	- **:split** -> split horizontal
+	- **:vsplit** -> split vertical
+
