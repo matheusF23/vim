@@ -81,4 +81,5 @@ O VIM tem alguns modos:
 	- **:Vex** -> splitar a tela mostrando o diretório atual 
 	- **:split** -> split horizontal
 	- **:vsplit** -> split vertical
+	- **ctrl w duas vezes** -> alternar entre as janelas splitadas
 
